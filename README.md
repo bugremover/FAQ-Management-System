@@ -1,4 +1,4 @@
-Here's a **well-structured, beginner-friendly, and visually appealing** `README.md` for your project. 🚀✨  
+
 
 ---
 
@@ -22,8 +22,8 @@ Welcome to the **FAQ Management API**! This is a **Spring Boot REST API** design
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/faq-api.git
-cd faq-api
+git clone https://github.com/bugremover/FAQ-Management-System.git
+cd FAQ-Management-System
 ```
 
 ### **2️⃣ Configure MongoDB & Redis**  
